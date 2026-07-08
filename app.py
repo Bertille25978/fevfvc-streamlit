@@ -35,4 +35,3 @@ if st.sidebar.button("Prédire"):
     st.dataframe(resultats)
 
 st.caption("Gradient Boosting Regressor + régression quantile pour l’intervalle à 90 %.")
-
